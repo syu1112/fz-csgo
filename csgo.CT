@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="27">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>99</ID>
+      <Description>"客户端-自身-Z"</Description>
+      <LastState Value="-168.2553711" RealAddress="91589808"/>
+      <VariableType>Float</VariableType>
+      <Address>client_panorama.dll+CC96A4</Address>
+      <Offsets>
+        <Offset>A8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>100</ID>
+      <Description>"客户端-自身-X"</Description>
+      <LastState Value="856.2442627" RealAddress="91589800"/>
+      <VariableType>Float</VariableType>
+      <Address>client_panorama.dll+CC96A4</Address>
+      <Offsets>
+        <Offset>A8-8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>101</ID>
+      <Description>"客户端-自身-Y"</Description>
+      <LastState Value="211.9763794" RealAddress="91589804"/>
+      <VariableType>Float</VariableType>
+      <Address>client_panorama.dll+CC96A4</Address>
+      <Offsets>
+        <Offset>A8-4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>102</ID>
+      <Description>"140-自身-Z"</Description>
+      <LastState Value="-168.2553711" RealAddress="915898A0"/>
+      <VariableType>Float</VariableType>
+      <Address>client_panorama.dll+CC96A4</Address>
+      <Offsets>
+        <Offset>140</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
